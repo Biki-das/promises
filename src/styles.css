@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+#todo-input {
+  display: block;
+}
+
+.input-container {
+  display: flex;
+  gap: 1rem;
+}
+
+span {
+  display: block;
+}
